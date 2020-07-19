@@ -1,0 +1,46 @@
+section > div.container-fluid {
+	background-color: lightgray;
+	margin:30px;
+}
+.a {
+	margin-bottom: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+h2 {
+	margin-bottom: 20px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+#header-nav {
+	background-color: lightgray;
+	border: 2px solid black;
+	padding-bottom: 0px;
+}
+h1{
+	font-weight: bold;
+	color: black;
+	margin: 0px auto 20px;
+	font-size: 32px;
+}
+ul > li {
+	text-align: center;
+	font-size: 1.5em;
+	border: 1px solid black;
+	background-color: white;
+}
+ul{
+	background-color: white;
+}
+.navbar-default .navbar-toggle {
+	border: 2px solid black;
+}
+#nav-list {
+	margin:0px -15px;
+}
+.navbar-brand {
+	margin-bottom: 20px; 
+}
+.navbar-default .navbar-toggle .icon-bar {
+	border: 2px solid black;
+}
